@@ -1,0 +1,58 @@
+[
+	{
+		"Titulo": "Desenvolvedor Web CVS (Estágio)",
+		"Data": "2018",
+		"Detalhes": "Desenvolvedor full stack, trabalhei em 2 e-commerces, um em php 7 no qual trabalhei sozinho no front end, e com um membro na equipe no back end, e outro projeto em wordpress que eu desenvolvi um template para o site, também fiz diversas instalações e configurações de wordpress durante esse período, fizeram a proposta de trabalho na empresa, mas era inviável trabalhar lá."
+	},
+	{
+		"Titulo": "Suporte e Desenvolvimento",
+		"Data": "2019-2022",
+		"Detalhes": "De 2019 até o final de 2020 prestava serviço a pessoas físicas e lojas locais, fazendo manutenção de hardware, software, e criando aplicações para negócios, nesse período trabalhei em um sistema de distribuição de áudio para uma rádio local feito em php e react, o sistema tinha um banco de dados de usuários e áudios, que eram liberados após o pagamento. De 2021 até o fim de 2022 passei a prestar serviços a prefeitura da cidade, onde dava suporte aos funcionários ensinando as melhores práticas de uso otimizando e economizando tempo nas atividades do dia a dia, manutenção de hardware e software, e dei início a um projeto municipal de usuários do Bolsa Família, fiz desde a pesquisa de hardware para compra de um servidor, que vai ser utilizado como cloud dentro da prefeitura e também o host do sistema, até o planejamento do projeto definindo tecnologias e estruturas a serem utilizadas. No fim saí de lá por não ter onde expandir mais dentro da cidade."
+	},
+	
+	{
+		"Titulo": "Profissional Técnico Nível Médio",
+		"Data": "Formação 2016 - 2018",
+		"Detalhes": "Algoritmo e Estrutura, Banco de Dados, Lógica computacional, Sistema Operacional, Arquitetura de Computadores, Matemática Aplicada, Metodologia Científica, Redação Técnica, Tecnologia da Informação, Psicologia Aplicada, Linguagem de Programação (PhP, Java, Html, Css, Javascript), Redes, Manutenção de Computadores, Programação Web - 1248 horas"
+	},
+	{
+		"Titulo": "Hacker 101",
+		"Data": "Formação 2020",
+		"Detalhes": "Prevenção de cyber ataques em sites, aplicações online e engenharia social em empresas - 12 horas"
+	},
+	{
+		"Titulo": "Especialização em Aplicações Web",
+		"Data": "Formação 2017-2018",
+		"Detalhes": "Banco de Dados SQL, Lógica de Programação, Java, UML, Php, Corel, Photoshop, Fireworks, Html, CSS - 450 horas"
+	},
+	{
+		"Titulo": "F1",
+		"Data": "2020",
+		"Detalhes": "Noções Administrativas, Excel, Word, Power Point - 88 horas."
+	},
+	{
+		"Titulo": "Formulação de Ofertas",
+		"Data": "2022-2023",
+		"Detalhes": "Como criar preços e ofertas, além de fidelização de clientes cobrando mais pelo produto ou serviço, aumentando as margens da empresa e a qualidade dos produtos."
+	},
+	{
+		"Titulo": "Google Fundamentals of Digital Market",
+		"Data": "Estudando",
+		"Detalhes": "Fundamentos sobre marketing digital, seo, e presença online - 40 horas"
+	},
+	{
+		"Titulo": "Engenharia de Software",
+		"Data": "Estudando",
+		"Detalhes": "Estudando constantemente programação e desenvolvimento de software; Já concluído: Cálculo 1, Programação Orientada a Objetos, Banco de Dados, Harvard CS50, Banco de Dados SQL, Gerenciamento de projetos."
+	},
+	{
+		"Titulo": "Psicologia e Engenharia Social",
+		"Data": "2021-2022",
+		"Detalhes": "Psicologia e comportamento humano, como produtos e serviços podem induzir um vício utilizando meios digitais para manter uma pessoa presa ao produto ou serviço por um longo período de tempo e como estabelecer conexão e criar uma relação de confiança em um menor espaço de tempo. - 36 horas"
+	},
+	{
+		"Titulo": "Produtos e Ofertas",
+		"Data": "livro",
+		"Detalhes": "Como criar preços e ofertas, além de fidelização de clientes cobrando mais pelo produto ou serviço, aumentando as margens da empresa e a qualidade dos produtos."
+	}
+]

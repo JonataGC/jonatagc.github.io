@@ -1,0 +1,37 @@
+[
+	{
+		"Titulo": "Web app de distribuição de audios",
+		"Data": "2019",
+		"Detalhes": "Uma plataforma online para upload e distribuição de audio online.<br/> <b>O problema</b>: Falta de controle sobre usuários e sobre o site.<br/> <b>Solução</b>: Fiz uma pesquisa de sites similares e peguei as principais funções que era aplicáveis para o projeto e todas as funções exigidas pelo cliente, fiz o design do site, procurei tecnologias aplicáveis compatíveis com o host que o cliente escolheu, e com a aprovação do cliente comecei o projeto.<br/> <b>Produção</b>: Utilizei o framework scrum para realizar o projeto, versionamento em git, php e um banco de dados sql, dentro de um mes o projeto estava pronto e revisado para o deployment para o host, o projeto foi entregue e depois revisado com novas funções e detalhes que o cliente pediu, assim dando por encerrado e o código fonte entregue ao cliente.<br/>"
+	},
+	{
+		"Titulo": "Mods",
+		"Data": "2021-2022",
+		"Detalhes": "Criei mods para dois jogos, minecraft que foi feito em java e terraria que foi feito em c#<br/>Links: <a href=https://github.com/alch3myst/soulbound target=_blank>Minecraft<a/> <a href=https://github.com/alch3myst/alxnaccessories target=_blank>Terraria<a/>"
+	},
+	{
+		"Titulo": "Projetos em C++",
+		"Data": "2021-2022",
+		"Detalhes": "Projetos que fiz para aplicação de conhecimento e estudos.<br/> ● <b>Rede neural</b>: Implementei uma rede neural do zero simulando evolução natural para escolher as melhores conexões e os melhores resultados, com o menor uso de recursos.<br/> ● <b>Criptografia</b>: Criei um algoritmo de criptografia linear que usa n chaves de forma aleatória, encriptando o mesmo dado por n gerações, o algoritmo consegue usar qualquer arquivo para encriptar qualquer arquivo, não só chaves aleatórias em texto.<br/> ● <b>Game Jams</b>: Participei de duas game jams no passado, todos feitos na Unreal em c++ e blueprints.<br/> ● <b>Plugin VST</b>: Criei dois vst 's, que são mini aplicações para processamento de áudio em tempo real usando o framework JUICE.<br/>"
+	},
+	{
+		"Titulo": "Bdo Market",
+		"Data": "2021",
+		"Detalhes": "Ferramenta feita para um mmorpg que estava jogando em 2019-2020 escrito em php, ela coleta os dados de uma api do mercado do jogo, utiliza um banco de dados de receitas, ingredientes e resultados, para calcular preços de forma recursiva e prever lucros e prejuízos de cada receita existente no jogo, existiam 200~ receitas e 300~ sub receitas na época. <br/>PS: O código back end esta meio confuso e precisa ser revisado. <br/>Links: <a href=https://github.com/alch3myst/bdoMarket target=_blank>Github<a/>"
+	},
+	{
+		"Titulo": "Disciplin",
+		"Data": "2022-2023",
+		"Detalhes": "Um app web de tarefas diárias, escrito em Go, rodando em um servidor privado linux, agora estou preparando o projeto para ser transformado em um aplicativo mobile"
+	},
+	{
+		"Titulo": "Go Memory DB",
+		"Data": "2022",
+		"Detalhes": " Um algoritmo simples para armazenar estruturas, classes e variáveis da memória em disco e recuperar do disco para a memória."
+	},
+	{
+		"Titulo": "Utilitários pentest",
+		"Data": "2021-2022",
+		"Detalhes": "Escrevi alguns utilitários para auxiliar a descoberta de vulnerabilidades em sites e aplicações online, escritos em Python e Go. <br/>Links: <a href=https://github.com/alch3myst/getfuzz target=_blank>Getfuzz (Phyton)<a/> <a href=https://github.com/alch3myst/all4fuzz target=_blank>All4Fuzz (Python)<a/> <a href=https://github.com/alch3myst/Recon-Tool target=_blank>Recon Tool (Go)<a/>"
+	}
+]
