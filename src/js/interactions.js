@@ -70,6 +70,7 @@ function scrollPage(direction, hoverElement) {
 		interParallaxMe.style.backgroundPosition = `center ${wheelDeltaY*20}px`
 		chapterOverlay.style.opacity = wheelDeltaY < 1 ? wheelDeltaY* 1.3 : 1;
 		chapterOverlay.style.display = "block";
+		chapterOverlay.style.pointerEvents = "none";
 		chapters[0].style.display = "block";
 		chapters[1].style.display = "none";
 		chapters[2].style.display = "none";
@@ -81,6 +82,7 @@ function scrollPage(direction, hoverElement) {
 	if (wheelDeltaY > padding * 3 && wheelDeltaY <= padding * 6) {
 		chapterOverlay.style.opacity -= wheelDeltaY >= 0 ? wheelDeltaY : 0;
 		chapterOverlay.style.display = "none";
+		chapterOverlay.style.pointerEvents = "all";
 
 		chapters[0].style.display = "none";
 		chapters[1].style.top = "0vh";
